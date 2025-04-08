@@ -81,10 +81,13 @@ def generar_qr_con_logo(data: str, logo_path: str, texto_value: str, base_output
 def leer_assets_desde_txt(filepath: str):
     with open(filepath, 'r', encoding='utf-8') as f:
         return [line.strip() for line in f if line.strip()]
-
+url_map ={
+    "GTC": "https://vtc.managerpluscloud.com/lt/portals/GTCCorp/main/open",
+    "VTCU": "https://vtc.managerpluscloud.com/lt/portals/VTCUCorp/main/open",
+    "VTCR": "https://vtc.managerpluscloud.com/lt/portals/VTCRCorp/main/open"
+    }
 
 if __name__ == "__main__":
-    data_base_url = "https://vtc.managerpluscloud.com/lt/portals/GTCCorp/main/open"
     logo_path = "TMCDL-oNLY WORLD.png"
     output_dir = "output_qrs_Name"
     asset_file = "assetsName.txt"
@@ -95,4 +98,13 @@ if __name__ == "__main__":
         parts = asset.split(' - ')
         texto_value = parts[0]
         texto_descriptivo = parts[1] if len(parts) > 1 else ""
+
+        # ✅ Primero obtenemos el prefijo y la URL
+        prefix_folder = texto_value.strip().split('-')[0]
+        data_base_url = url_map.get(prefix_folder)
+        if not data_base_url:
+            raise ValueError(f"No URL definida para prefijo: {prefix_folder}")
+
+        # ✅ Luego generamos el QR
         generar_qr_con_logo(data_base_url, logo_path, texto_value, output_dir, texto_descriptivo)
+

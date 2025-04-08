@@ -1,103 +1,104 @@
- GTC-VPD-0A1 - Vapor Phase Drying A1
- GTC-VPD-0C1 - Vapor Phase Drying  C1
- GTC-VPD-0A2 - Vapor Phase Drying A2
- VTCW2-HAV-HB3 - Hot Air Circulation and Vacuum plant E2X 03
- VTCW2-HAV-HB4 - Hot Air Circulation and Vacuum plant E2X 04
- GTC-HAV-0B1 - Hot Air Circulation and Vacuum plant B1
- VTCU-VPD-0A2 - Vapor Phase Drying  A2
- VTCU-HAC-HA1 - Hot Air Circulation 01
- VTCR-VPD-0A2 - Vapor Phase Drying A2
- VTCR-HAC-HA1 - Hot Air Circulation 01
- VTCW1-HAV-HV1 - Hot Air Circulation and Vacuum plant 01
- VTCW1-HAC-HA1 - Hot Air Circulation 01
- VTCW2-VPD-0A1 - Vapor Phase Drying MPU
- VTCW2-HAV-HB5 - Hot Air Circulation and Vacuum plant MPU 05
- GTC-HAC-0B2 - Hot Air Circulation Oven (insulation)
- GTC-SOP-HOS - Hot Oil Spray Station
- GTC-SOP-HOT - Hot Oil Spray Trailer
- GTC-SOP-SP1 - Stationary Oil Processor 01
- GTC-SOP-SP2 - Stationary Oil Processor 02
- GTC-SOP-SP3 - Stationary Oil Processor 03
- GTC-MOP-MP1 - Mobile Oil Processor 01
- GTC-STV-SV1 - Stationary Vacuum unit 01
- GTC-STV-SV2 - Stationary Vacuum unit 02
- GTC-STV-SV3 - Stationary Vacuum unit 03
- GTC-MOS-MS1 - Mobile Skid 01
- GTC-MOS-MS2 - Mobile Skid 02
- GTC-MOS-MS3 - Mobile Skid 03
- GTC-MOS-MS4 - Mobile Skid 04
- GTC-FUE-FE1 - Fuller's Earth
- GTC-MOT-OTF - Tank Farm Oil
- GTC-KET-VTF - Tank Farm VPD
- GTC-DRA-AD1 - Air Dryer 01
- GTC-DRA-AD2 - Air Dryer 02
- GTC-MOP-OD1 - Oil draining skid 01
- GTC-MOP-OD2 - Oil draining skid 02
- VTCU-VPD-0A1 - Vapor Phase Drying A1
- VTCU-HAC-HA2 - Hot Air Circulation 02
- VTCU-HAC-HA3 - Hot Air Circulation 03
- VTCU-SOP-SP1 - Stationary Oil Processor 01
- VTCU-MOP-MP3 - Mobile Oil Processor 01
- VTCU-MOP-MP1 - Mobile Oil Processor 02
- VTCU-MOP-MP2 - Mobile Oil Processor 03
- VTCU-FUE-FE1 - Fuller's Earth
- VTCU-MOS-MS1 - Mobile Skid 01
- VTCU-MOS-MS2 - Mobile Skid 02
- VTCU-MOS-MS3 - Mobile Skid 03
- VTCU-MOS-MS4 - Mobile Skid 04
- VTCU-MOS-MS5 - Mobile Skid 05
- VTCU-MOS-MS6 - Mobile Skid 06
- VTCU-OIH-EH1 - Electrical Heater
- VTCU-DRA-AD1 - Air dryer 01
- VTCU-DRA-AD2 - Air dryer 02
- VTCU-MOT-OTF - Tank Farm Oil
- VTCU-KET-VTF - Tank Farm VPD
- VTCU-CHI-CH1 - Chiller VPD A1
- VTCU-CHI-CH2 - Chiller VPD A2
- VTCU-OID-OD1 - Oil draining skid 01
- VTCU-OID-OD2 - Oil draining skid 02
- VTCR-VPD-0A1 - Vapor Phase Drying A1
- VTCR-HAC-HA2 - Hot Air Circulation 02
- VTCR-HAC-HA3 - Hot Air Circulation 03
- VTCR-HAC-HA4 - Hot Air Circulation 04
- VTCR-HAC-HA5 - Hot Air Circulation 05
- VTCR-OIH-TOB - Thermal Oil Boiler
- VTCR-SOP-SP1 - Stationary Oil Processor 01
- VTCR-MOP-MP1 - Mobile Oil Processor 01
- VTCR-MOP-MP2 - Mobile Oil Processor 02
- VTCR-MOS-MS1 - Mobile skid 01
- VTCR-MOS-MS2 - Mobile skid 02
- VTCR-MOS-MS3 - Mobile skid 03
- VTCR-MOS-MS4 - Mobile skid 04
- VTCR-DRA-AD1 - Air Dryer 01
- VTCR-DRA-AD2 - Air Dryer 02
- VTCR-MOT-OTF - Tank Farm Oil
- VTCR-KET-VTF - Tank Farm VPD
- VTCR-COT-CT1 - Cooling tower VPD 01
- VTCR-COT-CT2 - Cooling tower VPD 02
- VTCW1-HAC-HA2 - Hot Air Circulation 02
- VTCW1-SOP-SP1 - Stationary Oil Processor 01
- VTCW1-SOP-SP2 - Stationary Oil Processor 02
- VTCW1-STV-SV1 - Stationary vacuum skid 01
- VTCW1-STV-SV2 - Stationary vacuum skid 02
- VTCW1-MOT-OTF - Tank Farm Oil
- VTCW2-HAV-HB1 - Hot Air Circulation and Vacuum plant E2X 01
- VTCW2-HAV-HB2 - Hot Air Circulation and Vacuum plant E2X 02
- VTCW2-SOP-SP1 - Stationary Oil Processor 01
- VTCW2-SOP-SP2 - Stationary Oil Processor 02
- VTCW2-SOP-SP3 - Stationary Oil Processor 03
- VTCW2-SOP-SP4 - Stationary Oil Processor 04
- VTCW2-MOP-MP1 - Mobile Oil processor 01
- VTCW2-MOP-MP2 - Mobile Oil processor 02
- VTCW2-MOS-MS1 - Mobile skid 01
- VTCW2-MOS-MS2 - Mobile skid 02
- VTCW2-MOS-MS3 - Mobile skid 03
- VTCW2-MOS-MS4 - Mobile skid 04
- VTCW2-MOS-MS5 - Mobile skid 05
- VTCW2-MOS-MS6 - Mobile skid 06
- VTCW2-OID-OD1 - Oil draining skid 01
- VTCW2-OID-OD2 - Oil draining skid 02
- VTCW2-OID-OD3 - Oil draining skid 03
- VTCW2-DRA-AD1 - Air Drier 01
- VTCW2-MOT-OTF - Tank Farm Oil
- VTCW2-KET-VTF - Tank Farm VPD
+
+GTC-VPD-0A1 - Vapor Phase Drying A1
+GTC-VPD-0A2 - Vapor Phase Drying A2
+GTC-VPD-0C1 - Vapor Phase Drying  C1
+GTC-HAV-0B1 - Hot Air Circulation and Vacuum plant B1
+GTC-HAC-0B2 - Hot Air Circulation Oven (insulation)
+GTC-SOP-HOS - Hot Oil Spray Station
+GTC-SOP-HOT - Hot Oil Spray Trailer
+GTC-SOP-SP1 - Stationary Oil Processor 01
+GTC-SOP-SP2 - Stationary Oil Processor 02
+GTC-SOP-SP3 - Stationary Oil Processor 03
+GTC-MOP-MP1 - Mobile Oil Processor 01
+GTC-STV-SV1 - Stationary Vacuum unit 01
+GTC-STV-SV2 - Stationary Vacuum unit 02
+GTC-STV-SV3 - Stationary Vacuum unit 03
+GTC-MOS-MS1 - Mobile Skid 01
+GTC-MOS-MS2 - Mobile Skid 02
+GTC-MOS-MS3 - Mobile Skid 03
+GTC-MOS-MS4 - Mobile Skid 04
+GTC-FUE-FE1 - Fuller's Earth
+GTC-MOT-OTF - Tank Farm Oil
+GTC-KET-VTF - Tank Farm VPD
+GTC-DRA-AD1 - Air Dryer 01
+GTC-DRA-AD2 - Air Dryer 02
+GTC-MOP-OD1 - Oil draining skid 01
+GTC-MOP-OD2 - Oil draining skid 02
+VTCU-VPD-0A1 - Vapor Phase Drying A1
+VTCU-VPD-0A2 - Vapor Phase Drying  A2
+VTCU-HAC-HA1 - Hot Air Circulation 01
+VTCU-HAC-HA2 - Hot Air Circulation 02
+VTCU-HAC-HA3 - Hot Air Circulation 03
+VTCU-SOP-SP1 -  Stationary Oil Processor 01
+VTCU-MOP-MP3 - Mobile Oil Processor 01
+VTCU-MOP-MP1 - Mobile Oil Processor 02
+VTCU-MOP-MP2 - Mobile Oil Processor 03
+VTCU-FUE-FE1 - Fuller's Earth
+VTCU-MOS-MS1 - Mobile Skid 01
+VTCU-MOS-MS2 - Mobile Skid 02
+VTCU-MOS-MS3 - Mobile Skid 03
+VTCU-MOS-MS4 - Mobile Skid 04
+VTCU-MOS-MS5 - Mobile Skid 05
+VTCU-MOS-MS6 - Mobile Skid 06
+VTCU-OIH-EH1 - Electrical Heater
+VTCU-DRA-AD1 - Air dryer 01
+VTCU-DRA-AD2 - Air dryer 02
+VTCU-MOT-OTF - Tank Farm Oil
+VTCU-KET-VTF - Tank Farm VPD
+VTCU-CHI-CH1 - Chiller VPD A1
+VTCU-CHI-CH2 - Chiller VPD A2
+VTCU-OID-OD1 - Oil draining skid 01
+VTCU-OID-OD2 - Oil draining skid 02
+VTCR-VPD-0A1 - Vapor Phase Drying A1
+VTCR-VPD-0A2 - Vapor Phase Drying A2
+VTCR-HAC-HA1 - Hot Air Circulation 01
+VTCR-HAC-HA2 - Hot Air Circulation 02
+VTCR-HAC-HA3 - Hot Air Circulation 03
+VTCR-HAC-HA4 - Hot Air Circulation 04
+VTCR-HAC-HA5 - Hot Air Circulation 05
+VTCR-OIH-TOB - Thermal Oil Boiler
+VTCR-SOP-SP1 - Stationary Oil Processor 01
+VTCR-MOP-MP1 - Mobile Oil Processor 01
+VTCR-MOP-MP2 - Mobile Oil Processor 02
+VTCR-MOS-MS1 - Mobile skid 01
+VTCR-MOS-MS2 - Mobile skid 02
+VTCR-MOS-MS3 - Mobile skid 03
+VTCR-MOS-MS4 - Mobile skid 04
+VTCR-DRA-AD1 - Air Dryer 01
+VTCR-DRA-AD2 - Air Dryer 02
+VTCR-MOT-OTF - Tank Farm Oil
+VTCR-KET-VTF - Tank Farm VPD
+VTCR-COT-CT1 - Cooling tower VPD 01
+VTCR-COT-CT2 - Cooling tower VPD 02
+VTCW1-HAV-HV1 - Hot Air Circulation and Vacuum plant 01
+VTCW1-HAC-HA1 - Hot Air Circulation 01
+VTCW1-HAC-HA2 - Hot Air Circulation 02
+VTCW1-SOP-SP1 -  Stationary Oil Processor 01
+VTCW1-SOP-SP2 -  Stationary Oil Processor 02
+VTCW1-STV-SV1 -  Stationary vacuum skid 01
+VTCW1-STV-SV2 -  Stationary vacuum skid 02
+VTCW1-MOT-OTF - Tank Farm Oil
+VTCW2-VPD-0A1 - Vapor Phase Drying MPU
+VTCW2-HAV-HB5 - Hot Air Circulation and Vacuum plant MPU 05
+VTCW2-HAV-HB1 - Hot Air Circulation and Vacuum plant E2X 01
+VTCW2-HAV-HB2 - Hot Air Circulation and Vacuum plant E2X 02
+VTCW2-HAV-HB3 - Hot Air Circulation and Vacuum plant E2X 03
+VTCW2-HAV-HB4 - Hot Air Circulation and Vacuum plant E2X 04
+VTCW2-SOP-SP1 -  Stationary Oil Processor 01
+VTCW2-SOP-SP2 -  Stationary Oil Processor 02
+VTCW2-SOP-SP3 -  Stationary Oil Processor 03
+VTCW2-SOP-SP4 -  Stationary Oil Processor 04
+VTCW2-MOP-MP1 - Mobile Oil processor 01
+VTCW2-MOP-MP2 - Mobile Oil processor 02
+VTCW2-MOS-MS1 - Mobile skid 01
+VTCW2-MOS-MS2 - Mobile skid 02
+VTCW2-MOS-MS3 - Mobile skid 03
+VTCW2-MOS-MS4 - Mobile skid 04
+VTCW2-MOS-MS5 - Mobile skid 05
+VTCW2-MOS-MS6 - Mobile skid 06
+VTCW2-OID-OD1 - Oil draining skid 01
+VTCW2-OID-OD2 - Oil draining skid 02
+VTCW2-OID-OD3 - Oil draining skid 03
+VTCW2-DRA-AD1 - Air Drier 01
+VTCW2-MOT-OTF - Tank Farm Oil
+VTCW2-KET-VTF - Tank Farm VPD

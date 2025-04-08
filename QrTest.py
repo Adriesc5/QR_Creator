@@ -2,7 +2,7 @@ import qrcode
 from PIL import Image
 
 # Datos que se incluirán en el código QR
-data = "https://vtc.managerpluscloud.com/lt/portals/GTCCorp/main/open"
+data = "https://make.powerapps.com/environments/Default-6d2f20ab-945d-4dda-9242-ac571465a338/home"
 
 # Crear el objeto QRCode
 qr = qrcode.QRCode(
